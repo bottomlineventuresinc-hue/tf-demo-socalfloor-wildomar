@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-064-socalfloor Socal Flooring Installations (Wave 13 2026-09-29 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0, WordPress Photos CC0) or prior verified Wave library.
+New Wave 13 files: see builds/_assets_dl/wave13/LICENSES.md for source URLs and licenses.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave13/floor-fit-hands.jpg : Installer's hands fitting new floor covering along a wall; cropped to hands, no face (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Carpet_stretching_arp.jpg)
+services-trade.jpg <- wave13/floor-level-hands.jpg : Hands checking a surface with a level; no face (stocksnap CC0 1.0 https://stocksnap.io/photo/level-construction-ROG47AU0LS)
+people-crew.jpg <- wave13/floor-kitchen-updated.jpg : Updated kitchen with new flooring (rawpixel CC0 1.0 https://www.rawpixel.com/image/4032651/photo-image-background-kitchen-window)
+people-marek.jpg <- wave13/floor-tools-laid.jpg : Hand tools laid out on a floor (rawpixel CC0 1.0 https://www.rawpixel.com/image/5920740/photo-image-public-domain-free-metal)
+people-tom.jpg <- wave13/floor-kitchen-done.jpg : Kitchen with a new floor, cabinets and appliances in (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=32731562)
+coverage-house.jpg <- wave13/house-single-lawn.jpg : Single-story home with a front lawn (rawpixel CC0 1.0 https://www.rawpixel.com/image/6055650/free-public-domain-cc0-photo)
+floor-room-bare.jpg <- wave13/floor-room-bare.jpg : Empty room down to the bare subfloor (stocksnap CC0 1.0 https://stocksnap.io/photo/room-window-T3QP4DRXS2)
+floor-open-stairs.jpg <- wave13/floor-open-stairs.jpg : Open living area with new flooring by the stairs (rawpixel CC0 1.0 https://www.rawpixel.com/image/5946935/free-public-domain-cc0-photo)
+floor-worn-dark.jpg <- wave13/floor-worn-dark.jpg : Worn, stained old floor (stocksnap CC0 1.0 https://stocksnap.io/photo/hardwood-floors-O030Z3E0CN)
+floor-room-doors.jpg <- wave13/floor-room-doors.jpg : Empty room with new flooring and white double doors (rawpixel CC0 1.0 https://www.rawpixel.com/image/3285456/free-photo-image-door-room-empty)
+floor-room-stripped.jpg <- wave13/floor-room-stripped.jpg : Room stripped out, debris on the old floor (rawpixel CC0 1.0 https://www.rawpixel.com/image/3299278/free-photo-image-construction-interior-abandoned-building)
+floor-kitchen-new.jpg <- wave13/floor-kitchen-new.jpg : Kitchen corner with the new floor installed (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=32402424)
+
+Note: New trade (flooring): wave13 set. Hero cropped to hands only. Services come from the license class only, so no flooring materials are named. The packet's no-DNS names, the unresponsive same-name domain and the unrelated same-name business elsewhere in the state are NOT used or linked; domain ideas avoid those strings.
